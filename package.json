@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-plugin-nativeaudio.git"
+    "url": "https://github.com/felipe-ff/capacitor-plugin-nativeaudio.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-plugin-nativeaudio/issues"
+    "url": "https://github.com/felipe-ff/capacitor-plugin-nativeaudio/issues"
   },
   "keywords": [
     "cordova",
